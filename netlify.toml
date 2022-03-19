@@ -1,5 +1,5 @@
-# [[plugins]]
-#   package = "netlify-plugin-cloudinary"
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
 
-#   [plugins.inputs]
-#   cloudName = "dtgbzmpca"
+  [plugins.inputs]
+  cloudName = "dtgbzmpca"
