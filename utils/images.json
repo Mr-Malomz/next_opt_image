@@ -2,21 +2,21 @@
     {
         "id": 1,
         "name": "Mustang",
-        "url": "/image/mustang.avif"
+        "url": "/image/mustang.jpg"
     },
     {
         "id": 2,
         "name": "Ferrari",
-        "url": "/image/ferrari.avif"
+        "url": "/image/ferrari.jpg"
     },
     {
         "id": 3,
         "name": "BMW",
-        "url": "/image/bmw.avif"
+        "url": "/image/bmw.jpg"
     },
     {
         "id": 4,
         "name": "Mercedes",
-        "url": "/image/mercedes.avif"
+        "url": "/image/mercedes.jpg"
     }
 ]
