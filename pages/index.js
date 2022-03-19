@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.grid}>
           {images.map((image) => (
             <div key={image.id} className={styles.card}>
-              <img src={image.url} />
+              <img src={image.url} alt={image.name} />
               <p>{image.name}</p>
             </div>
           ))}
