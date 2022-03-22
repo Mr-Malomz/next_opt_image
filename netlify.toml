@@ -3,3 +3,5 @@
 
   [plugins.inputs]
   cloudName = "dtgbzmpca"
+  deliveryType = "upload"
+  uploadPreset = "wgyszbgz"
