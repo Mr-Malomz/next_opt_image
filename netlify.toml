@@ -3,3 +3,4 @@
 
   [plugins.inputs]
   cloudName = "dtgbzmpca"
+  imagesPath = "image"
