@@ -13,7 +13,6 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Optimized Image Gallery</h1>
-
         <div className={styles.grid}>
           {images.map((image) => (
             <div key={image.id} className={styles.card}>
